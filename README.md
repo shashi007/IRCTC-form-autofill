@@ -15,7 +15,7 @@ JS file that can be run to fill IRCTC booking form and tremendously decrease the
     ...
   };
   ```
-  Fill it up with the required appropriate fields as mentioned in [here](.#input-field).
+  Fill it up with the required appropriate fields as mentioned in [here](README.md#input-fields).
 
 * Open the page in IRCTC which asks for various details of passengers.
 * Open ***Inspect Element*** or ***Developers Console*** in your browser and switch to `Console` tab
